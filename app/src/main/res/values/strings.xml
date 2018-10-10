@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Video Streaming Sample Android</string>
+    <string name="StreamVideo">Stream Video</string>
+</resources>
